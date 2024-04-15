@@ -1,1 +1,14 @@
-{edit}
+{
+    "C4D Wizard Version": [
+        {
+            "Version": 0.8,
+            "Link": "www.lin.de/build-08.zip",
+            "Date": "2024-04-16 03:12"
+        },
+        {
+            "Version": 0.71,
+            "Link": "www.lin.de/build-071.zip",
+            "Date": "2024-04-17 03:12"
+        }
+    ]
+}
